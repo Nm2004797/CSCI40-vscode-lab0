@@ -1,10 +1,11 @@
-// This is a template program. Replace code here.
+// Simon Sultana
+// CSCI-40
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-	cout << "Test Program Started..." << endl;
+	cout << "Week 1 Lab 0\n Simon Sultana" << endl;
    return 0;
 }

@@ -1,11 +1,11 @@
-// Simon Sultana
-// CSCI-40
+// Enter name(s) here
+// Enter course # here
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-	cout << "Week 1 Lab 0\n Simon Sultana" << endl;
+   // enter code here
    return 0;
 }
